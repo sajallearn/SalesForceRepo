@@ -9,5 +9,9 @@
         <members>SampleAccountTrigger</members>
         <name>ApexTrigger</name>
     </types>
+	<types>
+        <members>*</members>
+        <name>ApexClasees</name>
+    </types>
     <version>45.0</version>
 </Package>
