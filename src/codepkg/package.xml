@@ -4,6 +4,7 @@
         <members>SampleDeployClass</members>
        <!-- <members>SampleFailingTestClass</members> -->
 	   <members>*</members>
+	<!-- Some Random Changes -->
         <name>ApexClass</name>
     </types>
     <types>
